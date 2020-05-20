@@ -1,0 +1,69 @@
+@font-face{
+    font-family: Anarchistic;
+    src:url("../fonts/Anarchistic.ttf")
+  }
+  @font-face{
+    font-family:BEATRICE;
+    src: url("../fonts/BEATRICE.ttf");
+
+  }
+  h1{
+    font-family:BEATRICE;
+    font-size: 3rem;
+    line-height: 1;
+
+  }
+h3{
+    font-family:BEATRICE;
+    font-size: 3rem;
+    line-height: 1;
+    text-align: center;
+
+}
+
+h2{
+  font-family:BEATRICE;
+  font-size: 5rem;
+  line-height: 1;
+}
+
+
+.color-section{
+    background-color: rgb(114, 106, 106);
+
+    color: #000;
+    text-align: center;
+}
+
+
+.navbar-brand{
+    font-family:BEATRICE;
+    font-size: 4rem;
+    padding: 0 0 0 1 px;
+
+}
+
+.nav-item{
+    padding:  0 0 0 2 px;
+
+} 
+.title-images{
+    position: static;
+    width:220 px;
+    right: 220 px;
+
+}
+
+
+.testimonials-text{
+  font-size:1.5rem ;
+  line-height: 1.5rem;
+
+}
+
+.testimonials-image{
+  width: 13vw;
+  border-radius: 50%;
+  margin: 20px;
+}
+
